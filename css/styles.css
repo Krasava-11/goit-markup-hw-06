@@ -917,8 +917,11 @@ img {
 
 .modal-label {
 	display: block;
-	margin-bottom: 20px;
 }
+
+.textarea-retreat {
+	margin-bottom: 20px;
+} /*-відступ текстареа-*/
 
 .modal-textarea {
 	display: block;
